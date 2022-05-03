@@ -1,0 +1,12 @@
+
+.headline {
+    margin-bottom: 2em;
+}
+
+.card {
+    border: 1px solid red
+}
+
+.card-body {
+    padding: 1rem;
+}
